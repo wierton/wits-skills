@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitCode"
+  short_description: "Operate GitCode PRs, issues, repos"
+  default_prompt: "Use $gitcode to inspect or modify GitCode PRs, issues, repositories, comments, templates, or token setup."
+
+policy:
+  allow_implicit_invocation: true
