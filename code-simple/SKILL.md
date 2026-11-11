@@ -1,5 +1,5 @@
 ---
-name: karpathy-guidelines
+name: code-simple
 description: Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.
 license: MIT
 metadata:
@@ -8,7 +8,7 @@ metadata:
   source-commit: 2c606141936f1eeef17fa3043a72095b4765b9c2
 ---
 
-# Karpathy Guidelines
+# Code Simple
 
 Behavioral guidelines to reduce common LLM coding mistakes, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
 
